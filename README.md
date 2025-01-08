@@ -14,6 +14,7 @@
 
 </div>
 
+Paper: https://arxiv.org/abs/2501.03265
 
 # Table of Contents
   - [1. Background Knowledge](#1-background-knowledge)
